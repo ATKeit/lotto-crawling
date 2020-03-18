@@ -1,0 +1,16 @@
+{
+	"name": "lotto-crawling",
+	"version": "0.0.1",
+	"description": "crawling korean lotto on 'https://dhlottery.co.kr'",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js",
+		"crawling": "node app.js"
+	},
+	"author": "B.Cheolu",
+	"license": "MIT",
+	"dependencies": {
+		"crawler": "^1.2.1",
+		"yargs": "^15.3.1"
+	}
+}
