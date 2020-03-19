@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/ATKeit/lotto-crawling/badge.svg?branch=master)](https://coveralls.io/github/ATKeit/lotto-crawling?branch=master)
+
 # Crawling Korea's Lotto Site
 
 ## Description: 
